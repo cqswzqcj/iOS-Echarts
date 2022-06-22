@@ -20,8 +20,8 @@
 
 #if TARGET_OS_IPHONE
     #import <UIKit/UIKit.h>
-    #define PY_WEB_VIEW UIWebView
-    #define PY_WEB_DELEGATE UIWebViewDelegate
+//    #define PY_WEB_VIEW UIWebView
+//    #define PY_WEB_DELEGATE UIWebViewDelegate
     #define PY_COLOR UIColor
     #define PY_IMAGE UIImage
     #define PY_EDGE_INSET UIEdgeInsets
