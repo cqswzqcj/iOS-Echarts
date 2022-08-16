@@ -1,3 +1,7 @@
+去掉原库中的UIWebView相关代码
+
+
+
 # iOS- Echarts - A control build with echarts  
 [中文文档](https://github.com/Pluto-Y/iOS-Echarts/tree/master/Doc) 
 
